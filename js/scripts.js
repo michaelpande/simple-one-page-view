@@ -3,7 +3,7 @@
 				overrideEmbed = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4";
 
 		var embeds = [
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=hd720", // 23:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
@@ -28,6 +28,11 @@
 			}
 		}
 
-		setInterval(setContent, 1000);
+		//setInterval(setContent, 100000);
 
+
+    // Reload every 30 min
+    setInterval(function(){
+      location.reload();
+    },1300000);
 })();
