@@ -3,37 +3,7 @@
 				overrideEmbed = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4";
 
 		var embeds = [
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=hd720", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 23:00
@@ -53,8 +23,8 @@
         }
 				return;
 			}
-			if(content.src !== embeds[hour]){
-      	content.src = embeds[hour];
+			if(content.src !== embeds[0]){
+      	content.src = embeds[0];
 			}
 		}
 
