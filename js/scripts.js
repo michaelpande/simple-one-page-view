@@ -3,30 +3,30 @@
 				overrideEmbed = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4";
 
 		var embeds = [
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 00:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 01:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 02:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 03:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 04:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 05:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 06:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 07:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=tiny", // 08:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=tiny", // 09:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 10:00
-      "https://www.youtube.com/embed/_eBGce6a-0A?autoplay=1&vq=tiny", // 11:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 12:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=tiny", // 13:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 14:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=tiny", // 15:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=tiny", // 16:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 17:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 18:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 19:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 20:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 21:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 22:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=tiny", // 23:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 00:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 01:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 02:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 03:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 04:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 05:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 06:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 07:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=small", // 08:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=small", // 09:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 10:00
+      "https://www.youtube.com/embed/_eBGce6a-0A?autoplay=1&vq=small", // 11:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 12:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=small", // 13:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 14:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=small", // 15:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=small", // 16:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 17:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 18:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 19:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 20:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 21:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 22:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=small", // 23:00
 		]
 
     function setContent(){
