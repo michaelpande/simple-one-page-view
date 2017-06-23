@@ -1,5 +1,5 @@
 (function(){
-		var override = true,
+		var override = false,
 				overrideVideo = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4";
 
 		var animations = [
