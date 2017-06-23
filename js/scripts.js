@@ -1,6 +1,7 @@
 (function(){
 		var override = false,
-				overrideVideo = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4";
+				overrideVideo = "https://media.giphy.com/media/xUA7bg8KiG0DKeGAg0/giphy.mp4",
+        overrideText = "";
 
 		var animations = [
 			{video: "https://media.giphy.com/media/xUA7b4arnbo3THfzi0/giphy.mp4", text: ""}, // 0:00
@@ -32,15 +33,18 @@
     function setAnimation(){
       var hour = new Date().getHours();
 			videoContainer = document.getElementById('videoContainer');
+      videoText = document.getElementById('videoText');
 
 			if(override){
         if(videoContainer.src !== overrideVideo){
       	  videoContainer.src = overrideVideo;
+          videoText.innerHTML = overrideText;
         }
 				return;
 			}
 			if(videoContainer.src !== animations[hour].video){
       	videoContainer.src = animations[hour].video;
+        videoText.innerHTML = animations[hour].text;
 			}
 		}
 
