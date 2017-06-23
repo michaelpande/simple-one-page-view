@@ -18,9 +18,9 @@
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 12:00
       "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1", // 13:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 14:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1", // 15:00
-      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1", // 16:00
-      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 17:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=medium", // 15:00
+      "https://www.youtube.com/embed/PPmnFbpnvMQ?autoplay=1&vq=medium", // 16:00
+      "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1&vq=medium", // 17:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 18:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 19:00
       "https://www.youtube.com/embed/UjALrXRNzGE?autoplay=1", // 20:00
