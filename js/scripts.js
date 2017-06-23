@@ -34,7 +34,9 @@
 			videoContainer = document.getElementById('videoContainer');
 
 			if(override){
-      	videoContainer.src = overrideVideo;
+        if(videoContainer.src !== overrideVideo){
+      	  videoContainer.src = overrideVideo;
+        }
 				return;
 			}
 			if(videoContainer.src !== animations[hour].video){
